@@ -2,6 +2,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 400px;
+    margin-top: 2rem;
 }
 .pokemon-details-image{
     margin-top: 1rem;
@@ -29,4 +33,9 @@
     padding: 1rem;
     background-color: gainsboro;
     margin-top: 1rem;
+    margin-bottom: 0.5rem
+}
+
+.pokemon-details-wrapper:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
