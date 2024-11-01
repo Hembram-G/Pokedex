@@ -1,5 +1,5 @@
 
-.search-wrapper{
+ .search-wrapper{
    
     margin: 0 auto;
 }
@@ -8,4 +8,31 @@
     margin-top: 2rem;
     width: 600px;
     padding: 1.5rem;
-}
+} 
+
+/* .search-wrapper {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #pokemon-name-search {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    font-size: 16px;
+    margin-left: 8px;
+  }
+  
+  .pokemon-details {
+    margin-top: 20px;
+  }
+  
+  .pokemon-details img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+   */
